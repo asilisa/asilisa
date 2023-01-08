@@ -1,6 +1,7 @@
 <h1 align="center">Hellow, world 👋, I'm Asya</h1>
 <h3 align="center">Начинающий frontend-разработчик</h3>
 
+![magic](https://github.com/asilisa/asilisa/blob/main/white_sparkles_a.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asilisa&label=Profile%20views&color=0e75b6&style=flat" alt="asilisa" /> </p>
 
