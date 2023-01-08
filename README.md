@@ -1,6 +1,8 @@
 <h1 align="center">Hellow, world 👋, I'm Asya</h1>
 <h3 align="center">Начинающий frontend-разработчик</h3>
 
+![there will be the magic](C:\Users\Asya\Downloads\—Pngtree—white glitter sparkling element_4469781.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asilisa&label=Profile%20views&color=0e75b6&style=flat" alt="asilisa" /> </p>
 
 - 🔭 В настоящее время верстаю сайт онлайн магазина в рамках курса Анны Блок [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist)
