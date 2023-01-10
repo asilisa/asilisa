@@ -2,11 +2,11 @@
 
 <h1 align="center">Hellow, world <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">I'm Asya. Junior frontend developer</h3>
+<br>
 
+🐴 Currently working on online shop's project [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist)
 
- 🔭 Currently working on online shop's project [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist)
-
- 🌱 Keep learning **HTML, CSS, JavaScript**
+🦄 Keep learning **HTML, CSS, JavaScript**
 
 
 <h3 align="left">Connect with me</h3>
