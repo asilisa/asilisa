@@ -1,8 +1,8 @@
+<img align="center" src="https://github.com/asilisa/asilisa/blob/main/github_portfolio.png">
+
 <h1 align="center">Hellow, world <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">I'm Asya. Junior frontend developer</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asilisa&label=Profile%20views&color=0e75b6&style=flat" alt="asilisa" /> </p>
 
  🔭 Currently working on online shop's project [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist)
 
