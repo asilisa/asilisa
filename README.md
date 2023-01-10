@@ -6,7 +6,7 @@
 
  🔭 Currently working on online shop's project [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist)
 
- 🌱 Currently learning **HTML, Css, JavaScript**
+ 🌱 Keep learning **HTML, CSS, JavaScript**
 
 
 <h3 align="left">Connect with me</h3>
