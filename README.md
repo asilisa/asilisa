@@ -1,15 +1,15 @@
 <h1 align="center">Hellow, world 👋, I'm Asya</h1>
-<h3 align="center">Начинающий frontend-разработчик</h3>
+<h3 align="center">Junior frontend developer</h3>
 
-![magic](https://github.com/asilisa/asilisa/blob/main/white_sparkles_b.png)
+![magic](https://github.com/asilisa/asilisa/blob/main/github_portfolio.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asilisa&label=Profile%20views&color=0e75b6&style=flat" alt="asilisa" /> </p>
 
-- 🔭 В настоящее время верстаю сайт онлайн магазина в рамках курса Анны Блок [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist)
+- 🔭 Currently working on online shop's project [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist)
 
-- 🌱 Изучаю **HTML, Css, JavaScript**
+- 🌱 Learning **HTML, Css, JavaScript**
 
-- 📫 Пишите **black.flamingo.black@gmail.com**
+- 📫 Cotact me **black.flamingo.black@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
