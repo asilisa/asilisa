@@ -1,4 +1,4 @@
-![magic](https://github.com/asilisa/asilisa/blob/main/github_portfolio.png)
+<img align="center" src="https://github.com/asilisa/asilisa/blob/main/github_portfolio.png">
 
 <h1 align="center">Hellow, world <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">I'm Asya. Junior frontend developer</h3>
