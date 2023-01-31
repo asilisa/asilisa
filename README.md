@@ -49,7 +49,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/asilisa/asilisa/main/icons8-github.svg">
+            <img height="40px" src="https://raw.githubusercontent.com/asilisa/asilisa/main/icons8-github.svg">
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
