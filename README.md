@@ -11,8 +11,8 @@
 
 <br>
 <h3 align="left">Connect with me</h3>
-<p align="left">   <a href="https://t.me/asyafrolova" target="blank"><img align="center" fill="#000" src="https://icons8.com/icon/VIYls9BXyvPt/new-message-delivery" alt="asyafrolova" height="30" width="40" />Telegram</a> 
- <a href="https://codepen.io/asilisa" target="blank"><img align="center" fill="#000" src="https://icons8.com/icon/b7dom23p2ynU/codepen-an-online-community-for-testing-and-showcasing-code-snippets" alt="asilisa" height="30" width="40" />Codepen</a>
+<p align="left">   <a href="https://t.me/asyafrolova" target="blank"><img align="center" fill="#000" src="https://github.com/asilisa/asilisa/blob/main/icons8-new-message-delivery-25.png?raw=true" alt="asyafrolova" height="30" width="40" />Telegram</a> 
+ <a href="https://codepen.io/asilisa" target="blank"><img align="center" fill="#000" src="	https://github.com/asilisa/asilisa/blob/main/icons…ing-and-showcasing-code-snippets.-25.png?raw=true" alt="asilisa" height="30" width="40" />Codepen</a>
  </p>
 
  <br>
