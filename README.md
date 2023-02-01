@@ -4,7 +4,7 @@
 <h3 align="center">I'm Asya. Junior frontend developer</h3>
 <br>
 
-🐴 Currently working on online shop's project [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist)
+🐴 Recently finished online shop's project [Module02-Shop](https://asilisa.github.io/Module02-Shop/dist) and web-developer's portfolio site [Portfolio](https://github.com/asilisa/profile/dist) 
 
 🦄 Keep learning **HTML, CSS, JavaScript**
 
